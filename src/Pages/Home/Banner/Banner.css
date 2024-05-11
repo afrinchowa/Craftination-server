@@ -1,0 +1,23 @@
+/* Banner.css */
+
+/* Hide the slide-changing loader */
+.awssld__bullets .awssld__bullet:last-child:before {
+    display: none !important;
+  }
+  
+  /* Additional styles for slider appearance */
+  .awssld__wrapper {
+    overflow: hidden;
+    position: relative; /* Ensure the wrapper is positioned relatively */
+  }
+  
+  .slide-title {
+    position: absolute; /* Position the title absolutely within the wrapper */
+    top: 20px; /* Adjust the top position as needed */
+    left: 50%; /* Center the title horizontally */
+    transform: translateX(-50%); /* Adjust to center the title */
+    color: white; /* Set the color of the title */
+    font-size: 24px; /* Set the font size of the title */
+    z-index: 1; /* Ensure the title is above the slide content */
+  }
+  

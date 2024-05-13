@@ -17,15 +17,15 @@ const Banner = () => {
         organicArrows={false} // Hide the arrow navigation
         media={[
           {
-            source: "https://i.ibb.co/wYYPTq4/medium-shot-people-cleaning-building.jpg",
+            source: "https://i.ibb.co/zGGpZ5q/myrlene-numa-Sn-ITZTTe-JVE-unsplash.jpg",
           },
 
           {
-            source: "https://i.ibb.co/wYYPTq4/medium-shot-people-cleaning-building.jpg",
+            source: "https://i.ibb.co/dWT5kx9/parker-burchfield-tv-G4-Wvjgs-EY-unsplash.jpg",
             alt: "Slider 2",
           },
           {
-            source: "https://i.ibb.co/F3s0SRN/man-doing-professional-home-cleaning-service.jpg",
+            source: "https://i.ibb.co/bzjBTCF/cam-morin-kn-Km7u-7-Ihw-unsplash.jpg",
             alt: "Slider 3",
           },
         ]}

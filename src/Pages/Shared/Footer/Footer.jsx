@@ -1,4 +1,4 @@
-import logo from "../../../assets/logo-removebg-preview.png"
+
 
 const Footer = () => {
     return (
@@ -9,7 +9,7 @@ const Footer = () => {
 			<a rel="noopener noreferrer" href="#" className="flex justify-center space-x-3 lg:justify-start">
 				<div className="flex items-center justify-center  rounded-full ">
 		
-           <img className="w-20 h-20" src={logo} alt="LOGO" />
+           <img className="w-20 h-20" src="#" alt="LOGO" />
           
 				</div>
 				<span className="self-center text-2xl font-semibold">Affordable Cleaning Service</span>

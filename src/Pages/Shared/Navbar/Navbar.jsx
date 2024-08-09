@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import logo from "../../../assets/logo-removebg-preview.png"
+
 const Navbar = () => {
   const navOptions = (
     <>
@@ -71,7 +71,7 @@ const Navbar = () => {
             aria-label="Back to homepage"
             className="flex items-center p-2"
           >
-           <img className="w-20 h-20 " src={logo} alt="" />
+           <img className="w-20 h-20 " src="#" alt="" />
           </a>
           <ul className="items-stretch hidden space-x-3 md:flex">
             <div className="flex items-center px-4 -mb-1 gap-2">

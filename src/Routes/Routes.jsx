@@ -1,8 +1,9 @@
 import { createBrowserRouter } from "react-router-dom";
 import Main from "../Layout/Main";
-import Home from "../Pages/Home/Home";
+
 import AddItem from "../Components/AddItem";
 import UpdateItem from "../Components/UpdateItem";
+import Home from "../Pages/Home/Home/Home";
 
 
 
